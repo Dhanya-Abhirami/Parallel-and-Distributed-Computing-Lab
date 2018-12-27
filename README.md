@@ -5,8 +5,7 @@ My solutions to lab assignments for the course CSE 4001
 gcc -fopenmp filename.c
 ./a.out filename.c
 ```
-## Instructions for MPI
-Install MPI
+## Instructions for running MPI
 ```
 mpicc filename.c
 mpirun -np x ./a.out
